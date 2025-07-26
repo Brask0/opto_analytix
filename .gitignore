@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers Système
+.DS_Store
+
+# Logs ou resultats
+*.log
+*.csv
+*.json

@@ -1,0 +1,11 @@
+sensor:
+  type: "photodiode"
+  channel: 0
+
+acquisition:
+  sampling_rate: 10  # Hz
+  duration: 5        # secondes
+
+output:
+  type: "console"
+
