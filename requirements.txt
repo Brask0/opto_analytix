@@ -1,1 +1,5 @@
+
 pyyaml
+numpy
+# Ajouter d'autres dépendances selon les modules utilisés
+spidev
